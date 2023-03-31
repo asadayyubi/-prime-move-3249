@@ -1,8 +1,8 @@
-# Grow Glamorous (GG.com)
+# Glam Nation
 
  ![Logo](/images/GGNew.png)
 
-GG.com is the clone of Myglamm , a E-commerce site. This is a shopping website of cosmetic products belongs to women such as makeup product, lipstick, eyeliner, sunscreen ans many more. 
+Glam Nation is the clone of Myglamm , a E-commerce site. This is a shopping website of cosmetic products belongs to women such as makeup product, lipstick, eyeliner, sunscreen ans many more. 
 This project  is built in the span of 5 day.
 
 ***
@@ -31,7 +31,7 @@ This project  is built in the span of 5 day.
 ***
 
 
-## Images of the GG.com
+
 
 ## Landing Page
 
