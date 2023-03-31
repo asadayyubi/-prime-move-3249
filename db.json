@@ -958,31 +958,10 @@
   "registeredUser": [
     {
       "id": 1,
-      "firstName": "Parul",
-      "lastName": "Saini",
-      "email": "p@gmail.com",
+      "firstName": "asad",
+      "lastName": "ayyubi",
+      "email": "a@gmail.com",
       "password": "1234"
-    },
-    {
-      "firstName": "Shubhangi",
-      "lastName": "Saini",
-      "email": "eve.holt@reqres.in",
-      "password": "redhh",
-      "id": 2
-    },
-    {
-      "firstName": "a",
-      "lastName": "d",
-      "email": "shubh@gmail.com",
-      "password": "345",
-      "id": 3
-    },
-    {
-      "firstName": "Suhani",
-      "lastName": "Saini",
-      "email": "soni@gmail.com",
-      "password": "8888",
-      "id": 5
     }
     
   ]
