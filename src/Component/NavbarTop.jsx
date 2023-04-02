@@ -36,7 +36,7 @@ import {
                 <Flex fontSize={"13px"} width={"150px"} gap={3}><Image width={"20px"} 
                  color="orange" src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/shop-512.png"></Image>
                  
-                <Text color={"orange.900"} fontWeight={'bold'} mr={-10}>MY GG STORE</Text></Flex>
+                <Text color={"orange.900"} fontWeight={'bold'} mr={-10}>MY Glam Nation STORE</Text></Flex>
             </Box></Link>
 
             </Box>

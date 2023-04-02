@@ -958,11 +958,17 @@
   "registeredUser": [
     {
       "id": 1,
-      "firstName": "asad",
-      "lastName": "ayyubi",
+      "firstName": "Asad",
+      "lastName": "Ayyubi",
       "email": "a@gmail.com",
       "password": "1234"
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Singh",
+      "email": "eve.holt@reqres.in",
+      "password": "redhh",
+      "id": 2
     }
-    
   ]
 }
