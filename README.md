@@ -1,6 +1,6 @@
 # Glam Nation
 
- ![Logo](/images/nation.png)
+ ![Logo](/Images/nation.png)
 
 Glam Nation is the clone of Myglamm , a E-commerce site. This is a shopping website of cosmetic products belongs to women such as makeup product, lipstick, eyeliner, sunscreen ans many more. 
 This project  is built in the span of 5 day.
@@ -35,25 +35,25 @@ This project  is built in the span of 5 day.
 
 ## Landing Page
 
-![LandingPage1](/images/LandingPage1.png)
-![LandingPage2](/images/LandingPage2.png)
-![responsive](/images/Rsposiveness.png)
+![LandingPage1](/Images/LandingPage1.png)
+![LandingPage2](/Images/LandingPage2.png)
+![responsive](/Images/Rsposiveness.png)
 
  ## Sign up
 
-![signup](/images/signup.png)
+![signup](/Images/signup.png)
 
  ## Product Page
 
-![ProductPage](/images/ProductPage.png) 
+![ProductPage](/Images/ProductPage.png) 
  
 ## Product Page
 
-![BagPage](/images/Bag20Page.png) 
+![BagPage](/Images/Bag20Page.png) 
 
 ## Checkout Page
 
-![checkout](/images/Checkout.png) 
+![checkout](/Images/Checkout.png) 
 
 
 
