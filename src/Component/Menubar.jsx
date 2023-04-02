@@ -509,7 +509,7 @@ import { CartContext } from '../Context/CartContextProvider';
               color={useColorModeValue('gray.800', 'white')}>
 
 
-             <Image w={"40px"}h={"40px"} src="GGNew.png"></Image>
+             {/* <Image w={"150px"}h={"75px"} src="nation.png"></Image> */}
             </Text>
   
             <Flex display={{ base: 'none', md: 'flex' }} ml={10}>

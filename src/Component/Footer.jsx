@@ -363,7 +363,7 @@ const Footer = () => {
             <a href="">Returns and Replacements</a>
           </li>
           <li>
-            <a href="">GG Rewards</a>
+            <a href="">Glam Nation Rewards</a>
           </li>
           <li>
             <a href="">Sitemap</a>
@@ -397,7 +397,7 @@ const Footer = () => {
             </p>
           </div>
           <div id="sect2">
-            <label >EXPERIENCE THE GG MOBILE APP</label>
+            <label >EXPERIENCE THE Glam Nation MOBILE APP</label>
             <br />
             <a href="">
               <img

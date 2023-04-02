@@ -1,5 +1,5 @@
 
-import { Box,Text } from "@chakra-ui/react"
+import { Box,Text,Image } from "@chakra-ui/react"
 import { Link } from "react-router-dom"
 import "../Css/Navbar.css";
 import NavbarTop from "./NavbarTop"
@@ -21,8 +21,9 @@ function Navbar() {
            <nav className="mid-nav">
             <div className="logoname">
             <h2 className="navggname">
-            <span>G</span>row
-            <span> G</span>lamorous
+            {/* <span>G</span>row
+            <span> G</span>lamorous */}
+            <Image w={"150px"}h={"75px"} src="nation.png"></Image>
            
           </h2>
 
