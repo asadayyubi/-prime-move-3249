@@ -45,9 +45,9 @@ This project  is built in the span of 5 day.
 
 ![ProductPage](/Images/ProductPage.png) 
  
-## Product Page
+## Cart Page
 
-![BagPage](/Images/Bag20Page.png) 
+![BagPage](/Images/BagPage.png) 
 
 ## Checkout Page
 
