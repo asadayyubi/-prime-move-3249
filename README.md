@@ -31,8 +31,6 @@ This project  is built in the span of 5 day.
 ***
 
 
-## Images of the Glam Nation
-
 ## Landing Page
 
 ![LandingPage1](/Images/LandingPage1.png)
